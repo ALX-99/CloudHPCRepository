@@ -1,0 +1,17 @@
+  _____ _                 _ _    _ _____   _____ 
+ / ____| |               | | |  | |  __ \ / ____|
+| |    | | ___  _   _  __| | |__| | |__) | |     
+| |    | |/ _ \| | | |/ _` |  __  |  ___/| |     
+| |____| | (_) | |_| | (_| | |  | | |    | |____ 
+ \_____|_|\___/ \__,_|\__,_|_|  |_|_|     \_____| 
+                                                 SkywayOne 
+				 powered by Elasticluster!
+
+#############################################################################
+                      WARNING TO UNAUTHORIZED USERS:
+ This system is for use by authorized users only. Any individual using this
+ system, by such use, acknowledges and consents to the right of the company
+ to monitor, access, use, and disclose any information generated, received,
+                          or stored on this system
+##############################################################################’
+

@@ -1,0 +1,9 @@
+
+#############################################################################
+                      WARNING TO UNAUTHORIZED USERS:
+ This system is for use by authorized users only. Any individual using this
+ system, by such use, acknowledges and consents to the right of the company
+ to monitor, access, use, and disclose any information generated, received,
+                          or stored on this system
+##############################################################################’
+
