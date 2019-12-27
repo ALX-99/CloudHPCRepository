@@ -1,0 +1,1 @@
+docker run -dit --name PortalServer -p80:80 -v /data/portal/html:/usr/local/apache2/htdocs/ httpd:2.4
