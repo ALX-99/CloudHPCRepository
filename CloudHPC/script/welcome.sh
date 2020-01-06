@@ -7,8 +7,7 @@ ip4=$(/sbin/ip -o -4 addr list ens3 | awk '{print $4}' | cut -d/ -f1)
 
 clear
 cat $DATA/static/welcome.txt
-echo "Maschine: $server"
-echo "PublicIP: $fip"
+/usr/bin/landscape-sysinfo
 echo
 who
 echo
